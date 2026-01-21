@@ -77,4 +77,4 @@ The goal is to assist in **early detection of breast cancer** using supervised m
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/breast-cancer-decision-tree.git
+      https://github.com/Sithik19/breast-cancer-decision-tree.git
