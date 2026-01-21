@@ -73,8 +73,3 @@ The goal is to assist in **early detection of breast cancer** using supervised m
 - Confusion Matrix
 
 ---
-
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-      https://github.com/Sithik19/breast-cancer-decision-tree.git
